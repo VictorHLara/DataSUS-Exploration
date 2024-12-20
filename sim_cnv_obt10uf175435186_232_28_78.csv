@@ -1,0 +1,20 @@
+ Mortalidade - Brasil
+Óbitos p/Residênc por Região
+Período:2020
+"Região";"Óbitos_p/Residênc"
+"1 Região Norte";109014
+"2 Região Nordeste";415919
+"3 Região Sudeste";703059
+"4 Região Sul";221808
+"5 Região Centro-Oeste";107024
+"Total";1556824
+ Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2022 e preliminares referentes a 2023. Data da atualização dos dados 08/2024.
+ Em 2011, houve uma mudança no conteúdo da Declaração de Óbito, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Sistema de Informações sobre Mortalidade - SIM. Consolidação da base de dados de 2011".
+ No dia 13/06/2019, os arquivos do SIM referentes ao ano de notificação 2017 foram atualizados, com alteração das causas básicas de 2 registros e exclusão de 1 registro.
+ No dia 01/04/2020, os arquivos do SIM referentes ao ano de notificação 2019 foram atualizados, com alteração das causas básicas de 4 registros e exclusão de 1 registro.
+ 
